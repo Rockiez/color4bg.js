@@ -1,0 +1,27 @@
+{
+  "name": "com.aestheticfluid.unity",
+  "displayName": "Aesthetic Fluid Background",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Unity port of the AestheticFluidBg.js effect. Creates dynamic, colorful fluid backgrounds using real-time shaders and render-to-texture techniques.",
+  "keywords": [
+    "background",
+    "shader",
+    "fluid",
+    "aesthetic",
+    "visual-effects",
+    "procedural"
+  ],
+  "author": {
+    "name": "AestheticFluid",
+    "url": "https://github.com/Rockiez/color4bg.js"
+  },
+  "type": "tool",
+  "samples": [
+    {
+      "displayName": "Basic Setup",
+      "description": "Example scene showing basic setup and usage",
+      "path": "Samples~/BasicSetup"
+    }
+  ]
+}
